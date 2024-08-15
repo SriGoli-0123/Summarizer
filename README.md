@@ -7,9 +7,9 @@ A React-flask Web Application which uses Huggingface🤗's Summarizer model in t
 1. Clone the Repository
 
    ```sh
-   git clone 
-   cd <repository-directory>
-
+   git clone https://github.com/your-username/Summarizer.git
+   cd Summarizer
+   
 3. Create and activate a virtual environment:
 
    ```sh
