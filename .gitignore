@@ -1,0 +1,9 @@
+# Virtual Environment folders
+Lib/
+Scripts/
+Include/
+Library/
+share/
+pyvenv.cfg
+node_modules/
+public/
