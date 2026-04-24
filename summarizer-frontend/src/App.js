@@ -4,11 +4,7 @@ import Summarizer from './Summarizer';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <Summarizer />
-      </header>
-    </div>
+    <Summarizer />
   );
 }
 
